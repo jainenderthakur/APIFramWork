@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2123" started-at="2022-01-08T13:12:16Z" finished-at="2022-01-08T13:12:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2123" started-at="2022-01-08T13:12:16Z" finished-at="2022-01-08T13:12:18Z">
+      <class name="org.testing.TestScripts.TC6GetAll2">
+        <test-method status="PASS" signature="testcase6()[pri:0, instance:org.testing.TestScripts.TC6GetAll2@43301423]" name="testcase6" duration-ms="2107" started-at="2022-01-08T18:42:16Z" finished-at="2022-01-08T18:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+      </class> <!-- org.testing.TestScripts.TC6GetAll2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
